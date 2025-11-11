@@ -1,0 +1,123 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-11-11 12:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: generate_desktop_files:25 generate_desktop_files:53
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:53
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:193
+#: usr/share/mintsysadm/mintsysadm.ui.h:11
+msgid "System Administration"
+msgstr ""
+
+#: generate_desktop_files:25
+msgid "Configure the system"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:69
+msgid "Add a boot argument"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:69
+msgid "If the argument is not recognized by the kernel it will be ignored."
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:87
+msgid "Quit"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:99
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:191
+msgid "About"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:143
+msgid ""
+"Running update-grub...\n"
+"\n"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:144
+#: usr/share/mintsysadm/mintsysadm.ui.h:15
+msgid "Processing..."
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:170
+msgid "Success"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:172
+msgid "Error"
+msgstr ""
+
+#: usr/lib/linuxmint/mintsysadm/mintsysadm.py:184
+msgid "Boot arguments cannot include space characters."
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:1
+msgid "Boot menu:"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:2
+msgid "Duration (in seconds)"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:3
+msgid "Show the menu"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:4
+msgid "Set the duration to -1 if you want the menu to show indefinitely."
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:5
+msgid "Boot parameters:"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:6
+msgid "The computer booted with the following parameters:"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:7
+msgid ""
+"In addition to the system configuration you can set your own parameters in "
+"the list below:"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:8
+msgid "Note: Press Save and reboot the computer for changes to take effect."
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:9
+msgid "Save"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:10
+msgid "Boot menu"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:12
+msgid "Updating the boot menu"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:13
+msgid "Close"
+msgstr ""
+
+#: usr/share/mintsysadm/mintsysadm.ui.h:14
+msgid "Result:"
+msgstr ""

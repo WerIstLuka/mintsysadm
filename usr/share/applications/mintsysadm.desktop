@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=System Administration
+Comment=Configure the system
+Exec=pkexec mintsysadm
+Icon=mintsysadm
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=GNOME;GTK;System;Settings;X-GNOME-SystemSettings;X-GNOME-Settings-Panel;XFCE;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+X-GNOME-Settings-Panel=system-administration
+MimeType=text/x-apt-sources-list;

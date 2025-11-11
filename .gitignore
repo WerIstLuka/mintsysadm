@@ -1,0 +1,7 @@
+debian/.debhelper
+debian/files
+debian/*substvars*
+debian/*debhelper*
+debian/mintsysadm
+*.ui~
+usr/share/locale
