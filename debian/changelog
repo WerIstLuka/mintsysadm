@@ -1,3 +1,17 @@
+mintsysadm (1.0.1) zena; urgency=medium
+
+  [ Clement Lefebvre ]
+  * l10n: Update POT
+
+  [ Michael Webster ]
+  * Add an option to remember the last selected grub entry, improve (#1)
+
+  [ Clement Lefebvre ]
+  * l10n: Update POT
+  * Update icon
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 24 Nov 2025 13:27:23 +0000
+
 mintsysadm (1.0.0) zara; urgency=medium
 
   * 1.0.0
