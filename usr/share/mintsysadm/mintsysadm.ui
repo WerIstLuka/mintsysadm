@@ -18,6 +18,7 @@
     <property name="window-position">center</property>
     <property name="default-width">1024</property>
     <property name="default-height">600</property>
+    <property name="icon-name">mintsysadm</property>
     <child>
       <object class="GtkBox">
         <property name="visible">True</property>
