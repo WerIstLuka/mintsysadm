@@ -1,4 +1,4 @@
-# French translation for linuxmint
+# Portuguese translation for linuxmint
 # Copyright (c) 2025 Rosetta Contributors and Canonical Ltd 2025
 # This file is distributed under the same license as the linuxmint package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
@@ -8,9 +8,9 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2025-11-24 13:08+0000\n"
-"PO-Revision-Date: 2025-11-27 01:58+0000\n"
-"Last-Translator: AO <Unknown>\n"
-"Language-Team: French <fr@li.org>\n"
+"PO-Revision-Date: 2025-11-25 17:39+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
+"Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,77 +22,77 @@ msgstr ""
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:214
 #: usr/share/mintsysadm/mintsysadm.ui.h:14
 msgid "System Administration"
-msgstr "Administration du système"
+msgstr "Administração do sistema"
 
 #: generate_desktop_files:25
 msgid "Configure the system"
-msgstr "Configurer le système"
+msgstr "Configurar o sistema"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:70
 msgid "Add a boot argument"
-msgstr "Ajouter un paramètre d’amorçage"
+msgstr "Adicionar um argumento de arranque"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:70
 msgid "If the argument is not recognized by the kernel it will be ignored."
-msgstr "Si le paramètre n’est pas reconnu par le noyau, il sera ignoré."
+msgstr "Se o argumento não for reconhecido pelo kernel, ele será ignorado."
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:88
 msgid "Quit"
-msgstr "Fermer"
+msgstr "Sair"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:100
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:212
 msgid "About"
-msgstr "À propos"
+msgstr "Acerca"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:164
 msgid ""
 "Running update-grub...\n"
 "\n"
 msgstr ""
-"Exécution de update-grub…\n"
+"A executar o update-grub...\n"
 "\n"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:165
 #: usr/share/mintsysadm/mintsysadm.ui.h:18
 msgid "Processing..."
-msgstr "Traitement…"
+msgstr "A processar..."
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:191
 msgid "Success"
-msgstr "L’opération est réussie"
+msgstr "Com sucesso"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:193
 msgid "Error"
-msgstr "Erreur"
+msgstr "Erro"
 
 #: usr/lib/linuxmint/mintsysadm/mintsysadm.py:205
 msgid "Boot arguments cannot include space characters."
-msgstr "Les paramètres d’amorçage ne doivent pas comporter d’espaces."
+msgstr "Os argumentos de arranque não podem incluir espaços."
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:1
 msgid "Boot menu"
-msgstr "Menu d’amorçage"
+msgstr "Menu de arranque"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:2
 msgid "Show the menu"
-msgstr "Afficher le menu"
+msgstr "Mostrar o menu"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:3
 msgid ""
 "The menu will always be shown if multiple operating systems are installed."
 msgstr ""
-"Si plusieurs systèmes d’exploitation sont installés, le menu est toujours "
-"affiché."
+"O menu será sempre exibido se vários sistemas operativos estiverem "
+"instalados."
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:4
 msgid "Delay before booting the default selection (seconds)"
-msgstr "Délai avant amorçage avec le choix par défaut (en secondes)"
+msgstr "Atraso antes de iniciar a seleção predefinida (segundos)"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:5
 msgid "Set the delay to -1 if you want the menu to show indefinitely."
 msgstr ""
-"Définissez le délai à -1 pour que le menu reste affiché sans temporisation."
+"Definir o atraso para -1 se desejar que o menu seja exibido indefinidamente."
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:6
 msgid "-1"
@@ -100,48 +100,46 @@ msgstr "-1"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:7
 msgid "Remember the last selected choice as the default"
-msgstr "Mémoriser le dernier choix comme choix par défaut"
+msgstr "Lembrar a última escolha selecionada como predefinida"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:8
 msgid "Boot parameters"
-msgstr "Paramètres d’amorçage"
+msgstr "Parâmetros de arranque"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:9
 msgid "The computer booted with the following parameters:"
-msgstr ""
-"Les paramètres suivants ont été appliqués lors de l’amorçage de "
-"l’ordinateur :"
+msgstr "O computador arrancou com os seguintes parâmetros:"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:10
 msgid ""
 "In addition to the system configuration you can set your own parameters in "
 "the list below"
 msgstr ""
-"En plus de la configuration du système, vous pouvez définir vos propres "
-"paramètres dans la liste ci-dessous."
+"Além da configuração do sistema, pode definir os seus próprios parâmetros na "
+"lista abaixo"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:11
 msgid "Press Save and reboot the computer for changes to take effect."
 msgstr ""
-"Cliquez sur Enregistrer et redémarrez l’ordinateur pour que les changements "
-"soient appliqués."
+"Clique em Guardar e reinicie o computador para que as alterações tenham "
+"efeito."
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:12
 msgid "Save"
-msgstr "Enregistrer"
+msgstr "Guardar"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:13
 msgid "Boot Menu"
-msgstr "Menu d’amorçage"
+msgstr "Menu de arranque"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:15
 msgid "Updating the boot menu"
-msgstr "Mise à jour du menu d’amorçage"
+msgstr "A atualizar o menu de arranque"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:16
 msgid "Close"
-msgstr "Fermer"
+msgstr "Fechar"
 
 #: usr/share/mintsysadm/mintsysadm.ui.h:17
 msgid "Result:"
-msgstr "Résultat :"
+msgstr "Resultado:"
