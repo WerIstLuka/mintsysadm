@@ -15,9 +15,10 @@
 <message xml:lang="br">Merañ ar reizhiad</message>
 <message xml:lang="ca">Administració del sistema</message>
 <message xml:lang="cs">Správa systému</message>
+<message xml:lang="cy">Gweinyddiaeth System</message>
 <message xml:lang="da">Systemadministration</message>
 <message xml:lang="de">Systemverwaltung</message>
-<message xml:lang="eo">Sistema administrado</message>
+<message xml:lang="eo">Sistemadministrado</message>
 <message xml:lang="es">Administración del sistema</message>
 <message xml:lang="eu">Sistemaren administrazioa</message>
 <message xml:lang="fi">Järjestelmän ylläpito</message>
@@ -42,13 +43,16 @@
 <message xml:lang="pl">Administracja systemem</message>
 <message xml:lang="pt">Administração do sistema</message>
 <message xml:lang="pt_BR">Administração do sistema</message>
+<message xml:lang="ro">Administrare sistem</message>
 <message xml:lang="ru">Системное администрирование</message>
+<message xml:lang="sk">Správa systému</message>
 <message xml:lang="sl">Skrbništvo sistema</message>
 <message xml:lang="sv">Systemadministration</message>
 <message xml:lang="tr">Sistem Yönetimi</message>
 <message xml:lang="uk">Керування системою</message>
 <message xml:lang="vi">Quản Trị Hệ Thống</message>
 <message xml:lang="zh_CN">系统管理</message>
+<message xml:lang="zh_TW">系統管理</message>
 
     <defaults>
       <allow_any>auth_admin_keep</allow_any>
